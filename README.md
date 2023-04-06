@@ -1,6 +1,6 @@
-# Dialogues
+# 100 Questions Dialogues
 
-This repository contains a series of dialogues between `students` and `professors` on `various topics`, with a focus on explaining complex concepts in simpler terms. Each dialogue aims to provide an engaging and educational experience for those interested in learning more about the respective topics. Enjoy the conversations and feel free to contribute!
+This repository contains a series of dialogues between students and professors on various topics. Each topic consists of 100 questions, with the goal of providing a comprehensive understanding of the subject. These dialogues are designed to be both engaging and educational, helping students and enthusiasts dive deeper into each topic.
 
 ## Table of Contents
 
@@ -13,8 +13,7 @@ The repository is organized as follows:
 
 - Each topic has its own folder, named after the topic, e.g., `large-language-models`.
 - Inside each folder, there is a `README.md` file that serves as an index for the dialogues related to that topic.
-- Each dialogue is stored in a separate Markdown file, e.g., `dialogue_1.md`.
-- Dialogues are named sequentially, starting with `dialogue_1.md`.
+- Each dialogue is stored in a separate Markdown file, e.g., `dialogue.md`.
 
 ## Contributing
 
