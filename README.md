@@ -5,7 +5,8 @@ This repository contains a series of dialogues between students and professors o
 ## Table of Contents
 
 1. [Large Language Models (LLMs)](./large-language-models/README.md)
-2. [More topics coming soon!](./)
+2. [Java](./java/README.md)
+3. [More topics coming soon!](./)
 
 ## Structure
 
