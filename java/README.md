@@ -2,7 +2,7 @@
 
 This folder contains a series of dialogues to discuss the development, functionality, and applications of Java.
 
-### Object-Oriented Programming (OOP) Concepts
+## Object-Oriented Programming (OOP) Concepts
 
 - Inheritance: subclassing, abstract classes, and interfaces
 - Polymorphism: method overriding, dynamic method dispatch, and interface implementation
@@ -12,7 +12,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. How does Java achieve runtime polymorphism?
 3. What are the benefits of encapsulation in Java?
 
-### Java Collections Framework
+## Java Collections Framework
 
 - List: ArrayList, LinkedList
 - Set: HashSet, TreeSet, LinkedHashSet
@@ -24,7 +24,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. When should you use a HashMap vs. a TreeMap?
 3. How can you make a Java collection thread-safe?
 
-### Java Generics
+## Java Generics
 
 - Parameterized types: generic classes, interfaces, and methods
 - Type bounds: extends, super
@@ -34,7 +34,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. What is the difference between a wildcard with an "extends" bound and one with a "super" bound?
 3. How can you create a generic method in Java?
 
-### Java Concurrency
+## Java Concurrency
 
 - Threads: creating, starting, and managing threads
 - Synchronization: synchronized blocks, methods, and static synchronization
@@ -48,7 +48,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. How can you prevent deadlocks in Java?
 3. What are the benefits of using the Executor framework over managing threads manually?
 
-### Exception Handling
+## Exception Handling
 
 - Checked vs. unchecked exceptions
 - Custom exception classes
@@ -58,7 +58,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. How can you create a custom exception class in Java?
 3. What are some best practices for handling exceptions in Java?
 
-### Input/Output (I/O) and Networking
+## Input/Output (I/O) and Networking
 
 - File I/O: File, FileReader, FileWriter, FileInputStream, FileOutputStream
 - Buffered I/O: BufferedReader, BufferedWriter, BufferedInputStream, BufferedOutputStream
@@ -69,7 +69,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. How can you serialize and deserialize an object in Java?
 3. How do you create a simple client-server application using sockets in Java?
 
-### Java 8+ Features
+## Java 8+ Features
 
 - Lambda expressions
 - Stream API
@@ -81,7 +81,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. What are some common use cases for the Stream API in Java?
 3. How can you use Optional to avoid null pointer exceptions in Java?
 
-### Java Reflection API
+## Java Reflection API
 
 - Class introspection: Class, Method, Field, Constructor
 - Dynamic object creation and method invocation
@@ -91,7 +91,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. How can you create an instance of a class using reflection in Java?
 3. What is the purpose of annotations in Java?
 
-### Java Virtual Machine (JVM)
+## Java Virtual Machine (JVM)
 
 - Memory management: heap, stack, and garbage collection
 - Just-In-Time (JIT) compilation
@@ -102,7 +102,7 @@ This folder contains a series of dialogues to discuss the development, functiona
 2. What is the role of Just-In-Time (JIT) compilation in the JVM?
 3. What are some common Java performance tuning techniques?
 
-### Java Design Patterns
+## Java Design Patterns
 
 - Creational patterns: Singleton, Factory Method, Abstract Factory, Builder, Prototype
 - Structural patterns: Adapter, Bridge, Composite, Decorator, Facade, Flyweight, Proxy
